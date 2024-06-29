@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=burnabaso" alt="burnabaso" /></a> </p>
 
-- 🔭 I’m currently working on [Weather WebApp (ClimaVue)](https://github.com/Burnabaso/WeatherApp-ClimaVue-)
+- 🔭 I’m currently working on [Registration Form using TailwindCss](https://github.com/Burnabaso/LoginForm)
 
 - 🌱 I’m currently learning **JS, Tailwind, React, more to come!**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Burnabaso](https://github.com/Burnabaso)
+- 👨‍💻 All of my personal projects are deployed at [Vercel](https://vercel.com/burnabasos-projects)
 
 - 📫 How to reach me **i.itani2002@gmail.com**
 
