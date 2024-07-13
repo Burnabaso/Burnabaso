@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=burnabaso" alt="burnabaso" /></a> </p>
 
-- 🔭 I’m currently working on [Registration Form using TailwindCss](https://github.com/Burnabaso/LoginForm)
+- 🔭 I’m currently working on [Spendo | Financial WebApp](https://github.com/Burnabaso/Spendo-FinancialApp)
 
 - 🌱 I’m currently learning **JS, Tailwind, React, more to come!**
 
