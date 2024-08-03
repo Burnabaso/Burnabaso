@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Spendo | Financial WebApp](https://github.com/Burnabaso/Spendo-FinancialApp)
 
-- 🌱 I’m currently learning **Back-end technologies, React, and more to come!**
+- 🌱 I’m currently learning **React, and more to come!**
 
 - 👨‍💻 All of my personal projects are deployed at [Vercel](https://vercel.com/burnabasos-projects)
 
