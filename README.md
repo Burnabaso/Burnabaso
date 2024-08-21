@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Lingo | Duolingo Clone](https://github.com/Burnabaso/lingo)
 
-- 🌱 I’m currently learning **React, and more to come!**
+- 🌱 I’m currently learning **Next.js, and more!**
 
 - 👨‍💻 All of my personal projects are deployed at [Vercel](https://vercel.com/burnabasos-projects)
 
