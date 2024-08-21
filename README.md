@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=burnabaso" alt="burnabaso" /></a> </p>
 
-- 🔭 I’m currently working on [Spendo | Financial WebApp](https://github.com/Burnabaso/Spendo-FinancialApp)
+- 🔭 I’m currently working on [Lingo | Duolingo Clone](https://github.com/Burnabaso/lingo)
 
 - 🌱 I’m currently learning **React, and more to come!**
 
